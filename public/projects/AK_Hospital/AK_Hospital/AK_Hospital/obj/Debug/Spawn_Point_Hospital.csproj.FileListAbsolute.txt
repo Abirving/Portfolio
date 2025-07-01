@@ -1,0 +1,37 @@
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.exe.config
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.exe
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.pdb
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\bin\Debug\Guna.UI.dll
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.MainForm.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.LoginForm.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.Properties.Resources.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.MedicationsControl.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.PatientsControl.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.PrescriptionControl.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.StaffControl.resources
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.CopyComplete
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.exe
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.pdb
+C:\Users\user\Desktop\Personal Documents\Attempts\C#\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.HomeControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.exe.config
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.exe
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\bin\Debug\AK_Hospital.pdb
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.MainForm.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.LoginForm.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.HomeControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.MedicationsControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.PatientsControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.PrescriptionControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.User_Controls.StaffControl.resources
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\Spawn_Point_Hospital.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.exe
+C:\Users\LENOVO\Desktop\AK_Hospital\AK_Hospital\obj\Debug\AK_Hospital.pdb
