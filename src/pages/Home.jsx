@@ -57,7 +57,7 @@ const Home = () => {
           variants={itemVariants}
           className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed"
         >
-          Frontend Developer & UI Designer | Crafting beautiful, functional, and user-friendly web experiences.
+          Frontend Developer & UI Designer about e | Crafting beautiful, functional, and user-friendly web experiences.
         </motion.p>
 
         {/* Call-to-Action Buttons */}
