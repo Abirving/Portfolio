@@ -72,7 +72,7 @@ const Home = () => {
             <FaCode size={20} /> View Projects
           </a>
           <a
-            href="/images/projects/CV.pdf" // Update with your CV file link
+            href="/images/projects/Abu.pdf" // Update with your CV file link
             download
             className="border-2 border-purple-600 text-purple-600 px-6 py-3 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900 transition-colors flex items-center gap-2"
           >
